@@ -27,7 +27,7 @@ Since then I've been bringing updates to **[Bot do Calor](https://twitter.com/bo
 Updates will always come, and along with most of them there will also be a tweet on my **[Main Account](https://twitter.com/mtss_e)**, and on the **[Bot](https://twitter.com/bot_calor)**.<br>
 It's a script 100% written in **Python**, and works with a little bit of web-scrapping [v3.0](v3.0), although its not essential.<br>
 
-Caso for utilizar o código, apenas me avise ou me marque ;)<br>
+If youre using my code, just let me know, or mention me ;)<br>
 
 Versions available for download:
 - [x] [v1.0](v1.0)
